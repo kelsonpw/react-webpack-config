@@ -2,6 +2,10 @@
 
 Empty project.
 
+Webpack is a build tool.  This is my config.
+Check out my Parcel version of this repo: [Parcel Repo](https://github.com/kelsonpw/react-parcel-boilerplate)
+
+
 ## Building and running on localhost
 
 First install dependencies:
