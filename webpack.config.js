@@ -7,7 +7,7 @@ const config = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: '[name].[contenthash].js'
+    filename: '[name].[hash].js'
   },
   module: {
     rules: [
