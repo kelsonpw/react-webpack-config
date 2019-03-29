@@ -1,4 +1,4 @@
-# empty-project-babel-code-split-vendors-png-react-react-hot-loader-svg-sass-lodash-moment
+# Kelson's React Boilerplate - Webpack Version
 
 Empty project.
 
@@ -31,4 +31,3 @@ npm run build-dev
 ## Running
 
 Open the file `dist/index.html` in your browser
-
